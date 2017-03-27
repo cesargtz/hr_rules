@@ -1,0 +1,178 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* hr_rules
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-25 00:01+0000\n"
+"PO-Revision-Date: 2017-03-24 17:15-0700\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. module: hr_rules
+#: field:hr.employee,additional_functions:0
+msgid "Additional functions"
+msgstr "Funciones Adicionales"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Additional functions..."
+msgstr "Funciones Adicionales…"
+
+#. module: hr_rules
+#: field:hr.employee,bonus:0
+msgid "Bonus"
+msgstr "Aguinaldo"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Bonus..."
+msgstr "Aguinaldo…"
+
+#. module: hr_rules
+#: field:hr.employee,date_payment_commissions:0
+msgid "Date payment commissions"
+msgstr "Fecha de Pago de Comisiones"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Date payment commissions..."
+msgstr "Fecha de Pago de Comisiones…"
+
+#. module: hr_rules
+#: model:ir.model,name:hr_rules.model_hr_employee
+msgid "Employee"
+msgstr "Empleado"
+
+#. module: hr_rules
+#: field:hr.employee,execution_fees:0
+msgid "Execution fees"
+msgstr "Comisiones por Ejecuciones"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Executions fees..."
+msgstr "Comisiones por Ejecuciones…"
+
+#. module: hr_rules
+#: field:hr.employee,gasoline:0
+msgid "Gasoline"
+msgstr "Vale de Gasolina"
+
+#. module: hr_rules
+#: field:hr.employee,goal:0
+msgid "Goal"
+msgstr "Meta"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Goals..."
+msgstr "Meta…"
+
+#. module: hr_rules
+#: field:hr.employee,holidays:0
+msgid "Holidays"
+msgstr "Vacaciones"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Holidays..."
+msgstr "Vacaciones…"
+
+#. module: hr_rules
+#: field:hr.employee,job_goals:0
+msgid "Job goals"
+msgstr "Objetivos del Puesto"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Job goals..."
+msgstr "Objetivos del Puesto…"
+
+#. module: hr_rules
+#: field:hr.employee,loan:0
+msgid "Loan"
+msgstr "Préstamos"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Loans..."
+msgstr "Préstamos…"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Operating Rules"
+msgstr "Reglas de Operación"
+
+#. module: hr_rules
+#: field:hr.employee,others:0
+msgid "Others"
+msgstr "Otros"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Others..."
+msgstr "Otros…"
+
+#. module: hr_rules
+#: field:hr.employee,responsibilities:0
+msgid "Responsibilities"
+msgstr "Responsabilidades"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Responsibilities..."
+msgstr "Responsabilidades…"
+
+#. module: hr_rules
+#: field:hr.employee,salary:0
+msgid "Salary"
+msgstr "Sueldo"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Salary..."
+msgstr "Sueldo…"
+
+#. module: hr_rules
+#: field:hr.employee,sanctions:0
+msgid "Sanctions"
+msgstr "Sanciones"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Sanctions..."
+msgstr "Sanciones…"
+
+#. module: hr_rules
+#: field:hr.employee,schedule:0
+msgid "Schedule"
+msgstr "Horario"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Schedule..."
+msgstr "Horario…"
+
+#. module: hr_rules
+#: view:hr.employee:hr_rules.hr_rules
+msgid "Work hours..."
+msgstr "Horas de Trabajo…"
+
+#. module: hr_rules
+#: field:hr.employee,works_hours:0
+msgid "Works hours"
+msgstr "Horas de Trabajo"
+
+#. module: hr_rules
+#: model:res.groups,name:hr_rules.access_hr_rules
+msgid "hr / rules"
+msgstr "hr / rules"
