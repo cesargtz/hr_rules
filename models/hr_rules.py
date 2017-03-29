@@ -13,9 +13,10 @@ class hr_rules(models.Model):
     works_hours = fields.Text()
     execution_fees = fields.Text()
     goal = fields.Text()
-    bonus = fields.Text()
+    bonus = fields.Text() #Aguinaldo
+    bonos = fields.Text()
     gasoline = fields.Text()
-    date_payment_commissions = fields.Date()
+    date_payment_commissions = fields.Text()
     holidays =  fields.Text()
     loan = fields.Text()
     sanctions = fields.Text()

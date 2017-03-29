@@ -55,12 +55,12 @@ msgstr "Empleado"
 #. module: hr_rules
 #: field:hr.employee,execution_fees:0
 msgid "Execution fees"
-msgstr "Comisiones por Ejecuciones"
+msgstr "Comisiones"
 
 #. module: hr_rules
 #: view:hr.employee:hr_rules.hr_rules
 msgid "Executions fees..."
-msgstr "Comisiones por Ejecuciones…"
+msgstr "Comisiones…"
 
 #. module: hr_rules
 #: field:hr.employee,gasoline:0
